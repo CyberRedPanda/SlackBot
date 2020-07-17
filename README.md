@@ -1,4 +1,4 @@
-# slack_bot
+# slack bot (A Python script to autopost to slack whenever you want)
 
 Auto Post to different Slack channels all day long
 
@@ -19,7 +19,7 @@ this script uses the keyboard hotkeys for a Mac to work, leveraging pyautogui. T
 this script is set to avoid an IT admin auto screen lock by moving the mouse every 9 minutes. You can adjust the sleep statements (or remove them) depending on your company's IT policy
 this script posts a message roughly every 30 minutes. To post more or less frequently, just change the sleep timer
 
-# instructions:
+# Instructions:
 you'll need to set up a few things first:
   - Pick three slack channels you want to post in (to add more, just copy and paste one of the functions)
   - You'll need to change the "name_of_first_channel", "name_of_second_channel", and "name_of_third_channel" fields to the actual channel names you want
