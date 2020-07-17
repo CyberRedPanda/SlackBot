@@ -1,4 +1,4 @@
-# slack bot (A Python script to autopost to slack whenever you want)
+# Slack Bot (A Python script to autopost to slack whenever you want)
 
 Auto Post to different Slack channels all day long
 
