@@ -8,7 +8,7 @@ Just fill in the input fields and set the timer, and this will post interesting 
 
 2.) Then, it navigates to a selected slack channel, and makes a post that you have precoded every thirty minutes (again moving the mouse in between)
 
-3.) It repeeats this process for two other slack channels
+3.) It repeats this process for two other slack channels
 
 4.) It shuts down your comupter
 
@@ -27,5 +27,5 @@ you'll need to set up a few things first:
                print("Hey Boss, I " + item + " let me know if you have any questions!")   
   - The second function does the same as above, currently it is set up for links, but can be anything.
   - The third function just posts items in a list (currently links, but you can change that)
-  - You'll also need to hardcode in your sudo password if you want your computer to shut down afterward. YES I KNOW IT'S A BAD IDEA TO HARDCODE YOUR PASSWORD, if you don't want to do that, just put it in a file and read the file, or set it so that you don't need sudo permissions to shut down (if your IT department allows this).
-  - Don't forget to set the timer in the "main()" function. It runs on militar time, so hour=17, minute=5 means 5:05 PM.
+  - You'll also need to hardcode in your sudo password if you want your computer to shut down afterward. YES I KNOW IT'S A BAD IDEA TO HARDCODE YOUR PASSWORD, if you don't want to do that, just put it in a file and read the file, or set it so that you don't need sudo permissions to shut down (if your IT department allows this), or, just shut down your computer yourself.
+  - Don't forget to set the timer in the "main()" function. It runs on military time, so hour=17, minute=5 means 5:05 PM.
