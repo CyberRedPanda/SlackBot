@@ -1,7 +1,5 @@
 # Slack Bot (a python script to autopost to slack whenever you want)
 
-Auto Post to different Slack channels all day long
-
 Script to make it look like you're working 24/7. 
 Just fill in the input fields and set the timer, and this will post interesting messages in various slack channels all day and night.
 
