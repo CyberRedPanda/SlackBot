@@ -7,8 +7,11 @@ Just fill in the input fields and set the timer, and this will post interesting 
 
 # Details of what this script does
 1.) At an appointed time, the script opens slack with a keyboard hotkey. Until that time, it moves the mouse occasionally to prevent the computer from sleeping and killing the script
+
 2.) Then, it navigates to a selected slack channel, and makes a post that you have precoded every thirty minutes (again moving the mouse in between)
+
 3.) It repeeats this process for two other slack channels
+
 4.) It shuts down your comupter
 
 # NOTES:
